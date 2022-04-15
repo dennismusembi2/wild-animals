@@ -1,0 +1,90 @@
+p {
+    font-family: sans-serif;
+    font-style: normal;
+    color: black;
+
+
+}
+body {
+    background-color: yellowgreen;
+    font-size: 16px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    padding: 0;
+    margin: 20;
+    
+
+    ;
+}
+h1 {
+    background-color: blueviolet;
+    font-family: Verdana, sans-serif;
+    font-style: italic;
+    font-size: large;
+    color: black;
+    height: auto;
+    padding: 20px;
+
+
+}
+.Europe {
+    background-color: blue;
+    font-family: times;
+    font-size: 20px;
+
+}
+.Africa {
+    background-color: aqua;
+    font-family: 'Times New Roman';
+    font-weight: 100;
+    display: grid;
+}
+
+.Sourth {
+    background-color: rgb(243, 10, 10);
+    font-family: Teneva, Tahoma;
+    display: contents;
+
+}
+.Asia {
+    background-color: rgb(77, 131, 33);
+    font-style: italic;
+    font-size: 20px;
+
+}
+.North {
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: initial;
+    font-size: 20px;
+}
+
+.top {
+    background-color: #cacaca;
+    padding: 40px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+}
+
+ 
+
+
+.footer {
+    background-color: black;
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.mainfooter {
+    background-color: yellow;
+    
+}
+
